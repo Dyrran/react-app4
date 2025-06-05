@@ -1,8 +1,10 @@
+import "./App.css"
+
 function App() {
 
   return (
     <>
-      <div>
+      <div className="bg-yellow">
         <p style={{ color:"red" }}>Hola mundo.</p>
       </div>
     </>
